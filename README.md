@@ -16,7 +16,7 @@ FAQ by UTO
 Spanish - http://www.ngpaws.com/zxunogomasfaq.html
 English - http://www.ngpaws.com/zxunogoplus_faq.html
 
-For more information, contact with manuferhi@gmail.com
+For more information, contact with geral@retroshop.pt (Portugal) or manuferhi@gmail.com (Spain)
 
 Based on ZX-UNO project by Superfo, Mcleod, Quest, AVillena and Hark0.
 http://zxuno.speccy.org/
